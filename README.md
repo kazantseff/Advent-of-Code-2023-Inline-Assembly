@@ -1,66 +1,26 @@
-## Foundry
+# 🎄 [Advent Of Code 2023](https://adventofcode.com/2023)
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+![Current day](https://img.shields.io/badge/Day-16-blue)
+![Stars obtained](https://img.shields.io/badge/Stars%20Obtained%20⭐-1-yellow)
+![Days completed](https://img.shields.io/badge/Days%20Completed-0-red)
 
-Foundry consists of:
+### Daily Solution Index
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+| Day  | Title                           | Part 1 | Part 2 | Code                                                                                                             |
+| ---- | ------------------------------- | :----: | :----: | ---------------------------------------------------------------------------------------------------------------- |
+| ✔ 01 | Trebuchet?!                     |   ⭐   |   ❌   | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/days/Day01.kt) |
+| ✔ 02 | Cube Conundrum                  |   ❌   |   ❌   |                                                                                                                  |
+| ✔ 03 | Gear Ratios                     |   ❌   |   ❌   |                                                                                                                  |
+| ✔ 04 | Scratchcards                    |   ❌   |   ❌   |                                                                                                                  |
+| x 05 | If You Give A Seed A Fertilizer |   ❌   |   ❌   |                                                                                                                  |
+| x 06 | Wait For It                     |   ❌   |   ❌   |                                                                                                                  |
+| x 07 | Camel Cards                     |   ❌   |   ❌   |                                                                                                                  |
+| x 08 | Haunted Wasteland               |   ❌   |   ❌   |                                                                                                                  |
+| x 09 | Mirage Maintenance              |   ❌   |   ❌   |                                                                                                                  |
+| x 10 | Pipe Maze                       |   ❌   |   ❌   |                                                                                                                  |
+| x 11 | Cosmic Expansion                |   ❌   |   ❌   |                                                                                                                  |
+| x 12 | Hot Springs                     |   ❌   |   ❌   |                                                                                                                  |
+| x 13 | Point of Incidence              |   ❌   |   ❌   |                                                                                                                  |
+| x 14 | Parabolic Reflector Dish        |   ❌   |   ❌   |                                                                                                                  |
+| x 15 | Lens Library                    |   ❌   |   ❌   |                                                                                                                  |
+| x 16 | ?                               |   ❌   |   ❌   |                                                                                                                  |
