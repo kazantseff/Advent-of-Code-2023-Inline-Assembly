@@ -8,10 +8,10 @@
 
 | Day  | Title                           | Part 1 | Part 2 | Code                                                                                                             |
 | ---- | ------------------------------- | :----: | :----: | ---------------------------------------------------------------------------------------------------------------- |
-| ✔ 01 | Trebuchet?!                     |   ⭐   |   ❌   | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Solidity)](https://github.com/kazantseff/Advent-of-Code-2023-Inline-Assembly/blob/master/src/day1/Day1Part1.sol) |
-| ✔ 02 | Cube Conundrum                  |   ❌   |   ❌   |                                                                                                                  |
-| ✔ 03 | Gear Ratios                     |   ❌   |   ❌   |                                                                                                                  |
-| ✔ 04 | Scratchcards                    |   ❌   |   ❌   |                                                                                                                  |
+| x 01 | Trebuchet?!                     |   ⭐   |   ❌   | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Solidity)](https://github.com/kazantseff/Advent-of-Code-2023-Inline-Assembly/blob/master/src/day1/Day1Part1.sol) |
+| x 02 | Cube Conundrum                  |   ❌   |   ❌   |                                                                                                                  |
+| x 03 | Gear Ratios                     |   ❌   |   ❌   |                                                                                                                  |
+| x 04 | Scratchcards                    |   ❌   |   ❌   |                                                                                                                  |
 | x 05 | If You Give A Seed A Fertilizer |   ❌   |   ❌   |                                                                                                                  |
 | x 06 | Wait For It                     |   ❌   |   ❌   |                                                                                                                  |
 | x 07 | Camel Cards                     |   ❌   |   ❌   |                                                                                                                  |
